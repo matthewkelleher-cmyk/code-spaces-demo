@@ -8,6 +8,6 @@ my_dbt_project:
       schema: INFORMATION_SCHEMA
       threads: 1
       type: snowflake
-      user: MATTHEWKELLEHER
+      user: "MATTHEWKELLEHER"
       warehouse: compute_wh
   target: dev
